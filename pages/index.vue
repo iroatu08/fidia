@@ -124,13 +124,13 @@
 
 
                  <div class="buttons flex-wrap flex items-center gap-2 lg:w-1/4 w-full">
-                  <button class="flex  items-center justify-center text-white px-3 py-2 rounded-md space-x-2 bg-purple-200 text-xs text-purple-600">
+                  <button class="flex  items-center justify-center px-3 py-2 rounded-md space-x-2 bg-purple-200 text-xs text-purple-600">
                   
                     <span>All time</span>
                      <img src="~/assets/icons/cancel.svg" alt="" srcset="">
                </button> 
 
-                <button class="flex items-center justify-center  text-white px-3 py-2 rounded-md space-x-2 bg-purple-200 text-xs text-purple-600">
+                <button class="flex items-center justify-center  px-3 py-2 rounded-md space-x-2 bg-purple-200 text-xs text-purple-600">
                   
                     <span>US, AU, +4</span>
                      <img src="~/assets/icons/cancel.svg" alt="" srcset="">
@@ -151,9 +151,9 @@
                
 
 
-                <div class="search flex items-center space-x-3 border px-3 py-2  rounded-md ml-auto lg:w-1/4 w-full ">
+                <div class="search flex items-center space-x-3 border px-3   rounded-md ml-auto lg:w-1/4 w-full ">
                 <img src="~/assets/icons/search.svg" alt="" srcset="">
-               <input type="text" placeholder="Search..." class="text-gray-500 appearance: none; focus:outline-none text-sm"
+               <input type="text" placeholder="Search..." class="text-gray-500 border-0 focus:ring-0 focus:outline-none text-sm"
                />
                   
             
@@ -191,7 +191,7 @@
                             <tr class="border-b border-gray-200 bg-gray-100 ">
                                 <td class="py-3 px-6 text-left whitespace-nowrap">
                                     <div class="flex items-center gap-2">
-                                      <input type="checkbox" name="" id="" class="ring-red-500" checked>
+                                      <input type="checkbox" name="" id="" class="border-gray-500 focus:ring-0 text-purple-500 rounded-md" checked>
                                         <div class="">
                                           <img class="w-8" src="~/assets/icons/catalogue.svg" alt="" srcset="">
                                         </div>
@@ -253,7 +253,7 @@
                                <tr class="border-b border-gray-200 ">
                                 <td class="py-3 px-6 text-left whitespace-nowrap">
                                     <div class="flex items-center gap-2">
-                                      <input type="checkbox" name="" id="">
+                                      <input type="checkbox" name="" id="" class="border-gray-500 focus:ring-0 text-purple-500 rounded-md" checked>
                                         <div class="">
                                           <img class="w-8" src="~/assets/icons/circlooes.svg" alt="" srcset="">
                                         </div>
@@ -315,7 +315,7 @@
                              <tr class="border-b border-gray-200 bg-gray-100 ">
                                 <td class="py-3 px-6 text-left whitespace-nowrap">
                                     <div class="flex items-center gap-2">
-                                      <input type="checkbox" name="" id="">
+                                      <input type="checkbox" name="" id="" class="border-gray-500 focus:ring-0 text-purple-500 rounded-md" checked>
                                         <div class="">
                                           <img class="w-8" src="~/assets/icons/command.svg" alt="" srcset="">
                                         </div>
@@ -377,9 +377,9 @@
                                <tr class="border-b border-gray-200 ">
                                 <td class="py-3 px-6 text-left whitespace-nowrap">
                                     <div class="flex items-center gap-2">
-                                      <input type="checkbox" name="" id="">
+                                      <input type="checkbox" name="" id="" class="border-gray-500 focus:ring-0 text-purple-500 rounded-md" >
                                         <div class="">
-                                          <img class="w-8" src="~/assets/icons/hour.svg" alt="" srcset="">
+                                          <img class="w-8" src="~/assets/icons/hour.svg" alt="" srcset="" >
                                         </div>
 
                                         <div>
@@ -439,7 +439,7 @@
                              <tr class="border-b border-gray-200 bg-gray-100 ">
                                 <td class="py-3 px-6 text-left whitespace-nowrap">
                                     <div class="flex items-center gap-2">
-                                      <input type="checkbox" name="" id="">
+                                      <input type="checkbox" name="" id="" class="border-gray-500 focus:ring-0 text-purple-500 rounded-md">
                                         <div class="">
                                           <img class="w-8" src="~/assets/icons/layer.svg" alt="" srcset="">
                                         </div>
@@ -501,7 +501,7 @@
                                <tr class="border-b border-gray-200 ">
                                 <td class="py-3 px-6 text-left whitespace-nowrap">
                                     <div class="flex items-center gap-2">
-                                      <input type="checkbox" name="" id="">
+                                      <input type="checkbox" name="" id="" class="border-gray-500 focus:ring-0 text-purple-500 rounded-md" checked>
                                         <div class="">
                                           <img class="w-8" src="~/assets/icons/quotient.svg" alt="" srcset="">
                                         </div>
@@ -563,7 +563,7 @@
                              <tr class="border-b border-gray-200 bg-gray-100 ">
                                 <td class="py-3 px-6 text-left whitespace-nowrap">
                                     <div class="flex items-center gap-2">
-                                      <input type="checkbox" name="" id="">
+                                      <input type="checkbox" name="" id="" class="border-gray-500 focus:ring-0 text-purple-500 rounded-md" checked>
                                         <div class="">
                                           <img class="w-8" src="~/assets/icons/sisyphus.svg" alt="" srcset="">
                                         </div>

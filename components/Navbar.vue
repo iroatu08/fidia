@@ -32,7 +32,7 @@
             </div>
              
             <div class="profile border border-black w-10 shadow-full rounded-full">
-            <img class="w-10  border rounded-full border-2 " src="~/assets/img/download.jpeg" alt="" srcset="">
+            <img class="w-10  border rounded-full " src="~/assets/img/download.jpeg" alt="" srcset="">
             </div>
 
 
@@ -61,9 +61,9 @@
                </div>
            </div>
 
-           <div class="right-nav  hidden lg:flex items-center space-x-3 border px-3 py-2  rounded-md ">
+           <div class="right-nav  hidden lg:flex items-center space-x-3 border px-3 rounded-md ">
                 <img src="~/assets/icons/search.svg" alt="" srcset="">
-               <input type="text" placeholder="Search..." class="text-gray-500 appearance: none; focus:outline-none"
+               <input type="text" placeholder="Search..." class="text-gray-500 focus:ring-0 border-0 focus:outline-none"
                />
                   
             
